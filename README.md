@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kikerexgg" target="blank"><img src="https://img.shields.io/twitter/follow/kikerexgg?logo=twitter&style=for-the-badge" alt="kikerexgg" /></a> </p>
 
-- 🔭 I’m currently working on [Un Bot de Discord](Aún no disponible)
+- 🔭 I’m currently working on <a href="https://github.com/KikeRex/PyBot"> a Bot of Discord</a>
 
 - 🌱 I’m currently learning **Python, HTML, CSS y Js**
 

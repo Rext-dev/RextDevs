@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, I am Enrique Hernández</h1>
+<h1 align="center">Hi! 👋, I am Kike</h1>
 <h3 align="center">I am a student, currently learning new languages</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikerex&label=Profile%20views&color=0e75b6&style=flat" alt="kikerex" /> </p>
 

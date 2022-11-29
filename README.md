@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Bot of discord](https://github.com/KikeRex/PyBot) or other proyect
 
-- 💬 Ask me about **Python básico**
+- 💬 Ask me about **me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

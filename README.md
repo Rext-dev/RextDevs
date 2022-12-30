@@ -2,7 +2,7 @@
 <h3 align="center">I am a student, currently learning new languages</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikerex&label=Profile%20views&color=0e75b6&style=flat" alt="kikerex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kikerex" alt="kikerex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rextpro" alt="kikerex" /></a> </p>
 <p align="left"> <a href="https://github.com/KikeRex" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=KikeRex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="kikerex" /></a> </p>
 <p align="left"> <a href="https://twitter.com/kikerexgg" target="blank"><img src="https://img.shields.io/twitter/follow/kikerexgg?logo=twitter&style=for-the-badge" alt="kikerexgg" /></a> </p>
 

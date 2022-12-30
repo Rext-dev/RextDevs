@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rextpro&label=Profile%20views&color=0e75b6&style=flat" alt="RextPro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rextpro" alt="kikerex" /></a> </p>
-<p align="left"> <a href="https://github.com/KikeRex" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=KikeRex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="kikerex" /></a> </p>
+<p align="left"> <a href="https://github.com/KikeRex" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=RextPro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="kikerex" /></a> </p>
 <p align="left"> <a href="https://twitter.com/kikerexgg" target="blank"><img src="https://img.shields.io/twitter/follow/kikerexgg?logo=twitter&style=for-the-badge" alt="kikerexgg" /></a> </p>
 
 - 🔭 I’m currently working on my [Bot of discord](https://github.com/KikeRex/PyBot)
